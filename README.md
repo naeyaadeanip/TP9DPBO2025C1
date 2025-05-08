@@ -62,3 +62,4 @@ Berisi HTML template statis dengan placeholder, yang akan digantikan oleh engine
 - Data dihapus dari database, lalu pengguna diarahkan kembali ke `index.php`.
 
 # Dokumentasi
+https://github.com/user-attachments/assets/90ffc236-8c6c-47fd-a99f-bfd8d0a0cb04
